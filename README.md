@@ -351,9 +351,12 @@ export const TransactionList = () => {
 
 ![Screenshot (62)](https://github.com/user-attachments/assets/8f0cd9b5-f88b-4a1e-9c30-b4484b53be11)
 
-![Fraud Detection Process DETECT AND BLOCKED]
+## Fraud Detection Process DETECT AND BLOCKED
 
-![Fraud Detection Process CONFIRMED AND SUCCESSFULLY COMPLETED]
+![Screenshot (63)](https://github.com/user-attachments/assets/78a549b5-7a78-4b2a-b378-9ed820ec8982)
+
+
+## Fraud Detection Process CONFIRMED AND SUCCESSFULLY COMPLETED
 
 ---
 
