@@ -120,13 +120,15 @@ Run the predefined tests to ensure the system functions correctly:
 
 ---
 
- ## Preview
+### Preview
 
-![Transaction Metrics of FRAUD DETECTION SYSTEM WEBPAGE ]("C:\Users\mihir\Pictures\Screenshots\Screenshot (62).png")
+## Transaction Metrics of FRAUD DETECTION SYSTEM WEBPAGE 
 
-![Fraud Detection Process DETECT AND BLOCKED]("C:\Users\mihir\Pictures\Screenshots\Screenshot (63).png")
+![Screenshot (62)](https://github.com/user-attachments/assets/8f0cd9b5-f88b-4a1e-9c30-b4484b53be11)
 
-![Fraud Detection Process CONFIRMED AND SUCCESSFULLY COMPLETED]("C:\Users\mihir\Pictures\Screenshots\Screenshot (63).png")
+![Fraud Detection Process DETECT AND BLOCKED]
+
+![Fraud Detection Process CONFIRMED AND SUCCESSFULLY COMPLETED]
 
 ---
 
