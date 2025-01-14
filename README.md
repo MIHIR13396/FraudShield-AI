@@ -48,22 +48,51 @@ This Fraud Detection System is designed to identify, flag, and block fraudulent 
 ## Getting Started
 
 ### Prerequisites
-- Python 3.8 or above
-- Required libraries: `numpy`, `pandas`, `sklearn`
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/fraud-detection-system.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the application:
-   ```bash
-   python app.py
-   ```
+To run this project, you need to have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+### Installing
+
+1. **Clone the repository:**
+    ```sh
+    git clone https://github.com/yourusername/fraud-detection-system.git
+    cd fraud-detection-system
+    ```
+
+2. **Install dependencies:**
+    ```sh
+    npm install
+    ```
+
+3. **Set up the environment:**
+    Create a `.env` file in the root directory and add necessary configurations such as database credentials and API keys.
+
+4. **Run database migrations (if applicable):**
+    ```sh
+    npm run migrate
+    ```
+
+### Running the Application
+
+1. Open the project folder in Visual Studio Code.
+2. Start the development server:
+    ```sh
+    npm start
+    ```
+3. Open your browser and navigate to `http://localhost:3000`.
+
+### Testing the Application
+
+Run the predefined tests to ensure the system functions correctly:
+
+1. Execute the test suite:
+    ```sh
+    npm test
+    ```
+2. Verify the output to ensure all tests pass successfully.
 
 ---
 
@@ -91,11 +120,13 @@ This Fraud Detection System is designed to identify, flag, and block fraudulent 
 
 ---
 
-## References
+ ## Preview
 
-![Transaction Metrics Dashboard](https://via.placeholder.com/600x400?text=Transaction+Metrics+Dashboard)
+![Transaction Metrics of FRAUD DETECTION SYSTEM WEBPAGE ]("C:\Users\mihir\Pictures\Screenshots\Screenshot (62).png")
 
-![Fraud Detection Process Flow](https://via.placeholder.com/600x400?text=Fraud+Detection+Process+Flow)
+![Fraud Detection Process DETECT AND BLOCKED]("C:\Users\mihir\Pictures\Screenshots\Screenshot (63).png")
+
+![Fraud Detection Process CONFIRMED AND SUCCESSFULLY COMPLETED]("C:\Users\mihir\Pictures\Screenshots\Screenshot (63).png")
 
 ---
 
@@ -113,4 +144,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For questions or support, contact [support@bankfraudsystem.com](mailto:support@bankfraudsystem.com).
+For questions or support, contact (mailto:mihirsinghofficial10@gmail.com).
