@@ -1,4 +1,6 @@
-# Fraud Detection System for Banking Sector
+# FRAUD SHIELD AI 
+
+## Fraud Detection System for Banking Sector
 
 This Fraud Detection System is designed to identify, flag, and block fraudulent transactions in real-time. It provides key metrics such as total transactions, flagged transactions, blocked attempts, and risk levels of transactions to prevent unauthorized or risky activities in the banking sector.
 
@@ -51,7 +53,7 @@ This Fraud Detection System is designed to identify, flag, and block fraudulent 
 
 To run this project, you need to have the following installed:
 
-- [Node.js](https://nodejs.org/)
+- [React.js](https://Reactjs.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Installing
@@ -96,7 +98,7 @@ Run the predefined tests to ensure the system functions correctly:
 
 ---
 
-## Example Usage
+## Example CODE's
 
 ### DASHBOARD
 
@@ -358,13 +360,10 @@ export const TransactionList = () => {
 
 ## Fraud Detection Process CONFIRMED AND SUCCESSFULLY COMPLETED
 
----
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
+![Screenshot (64)](https://github.com/user-attachments/assets/77ae37e6-898e-480a-b778-48338a84a1cf)
 
 ---
+
 
 ## License
 
@@ -374,4 +373,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For questions or support, contact (mailto:mihirsinghofficial10@gmail.com).
+For questions or support, contact (mail to:mihirsinghofficial10@gmail.com).
